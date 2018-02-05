@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="header">Color Picker</string>
+    <string name="red_label">Red</string>
+    <string name="redValue">0</string>
+    <string name="blue_label">Blue</string>
+    <string name="blueValue">0</string>
+    <string name="green_label">Green</string>
+    <string name="greenValue">0</string>
+</resources>
