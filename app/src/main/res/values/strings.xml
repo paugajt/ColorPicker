@@ -7,4 +7,10 @@
     <string name="blueValue">0</string>
     <string name="green_label">Green</string>
     <string name="greenValue">0</string>
+    <string name="action_save">Save</string>
+    <string name="action_recall">Recall</string>
+    <string name="saveDialog">Enter a name for your color:</string>
+    <string name="save">Save</string>
+    <string name="spinner_title">Colors</string>
+    <string-array name="colorsList"></string-array>
 </resources>
